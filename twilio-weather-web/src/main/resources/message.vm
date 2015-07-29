@@ -1,0 +1,5 @@
+Current Weather Conditions for ${weather.city}, ${weather.region}:
+Temperature: ${weather.temp} °F
+Condition: ${weather.condition}
+Humidity: ${weather.humidity}%
+Wind Speed: ${weather.speed} mph
